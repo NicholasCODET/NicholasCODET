@@ -11,7 +11,8 @@
   <img src="" height="40" alt="medium logo"/>
 </div>
 
-<img src="https://github-profile-trophy.vercel.app?username=nicholascodet&theme=default&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+<img src="https://github-profile-trophy.vercel.app?username=nicholascodet & theme=default & column=4 & row=2 & margin-w=8 & margin-h=8 & no-bg=true & no-frame=true & order=4" height="150" alt="trophy graph"  />
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
