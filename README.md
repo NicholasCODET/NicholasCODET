@@ -52,6 +52,15 @@ Currently, I'm on a journey to expand my skillset and become a **Design Engineer
   </a>
 </div>
 
+<br/>
+
+<div align="center">   
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=nicholascodet&color=blue)
+</div>
+
+
+
 <!---
 NicholasCodet/NicholasCodet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
