@@ -3,10 +3,6 @@
 
 <!---Title--> 
 # Hey there, I'm Nicholas Codet 👋
-Product Designer crafting emotional digital experiences that connect people, blending creativity, behavioral psychology & emerging tech.
-<br/>
-Currently, I'm on a journey to expand my skillset and become a **Design Engineer**.
-
 I’m a Product Designer blending creative design with technology to build intuitive and emotionally engaging experiences.
 
 I believe that technology should be a bridge between human emotion and innovation, which is why I focus on creating solutions that not only function but feel. On GitHub, you’ll find my journey of experimentation with design systems, prototypes, and front-end development, where I dive deep into UX, UI, and coding to bring designs to life in interactive ways.
